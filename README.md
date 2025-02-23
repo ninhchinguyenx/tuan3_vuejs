@@ -1,4 +1,4 @@
-# tuan3_vuejs
+# tuan3_vuejs link api ở tuần 2 https://github.com/ninhchinguyenx/tuan2_api_laravel_queue
 
 This template should help get you started developing with Vue 3 in Vite.
 
